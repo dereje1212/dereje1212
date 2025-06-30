@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dereje1212
 - 👀 I’m interested in learning anything that can change our life.
-- 🌱 I’m currently learning information system in university of Gondar
+- 🌱 I'm currently employed at MIDROC as a Junior Programmer and System Support Administrator
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me dereje2712@gmail.com
 
